@@ -205,7 +205,7 @@ Full page names that are not linked:
 
 Adding a header and a footer:
 
-    {{#subpages:into=Awesome subpages below!|outro=Now go add some more!}}
+    {{#subpages:intro=Awesome subpages below!|outro=Now go add some more!}}
 
 Using a template to format the page names:
 
